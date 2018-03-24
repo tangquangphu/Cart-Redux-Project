@@ -1,0 +1,33 @@
+App
+    {
+            Header 1 done
+    }
+    {
+    ProductsContainer
+        {
+        Products 2 done
+            {
+            Product 3    done
+            Product      done
+            Product      done
+            }
+        }
+    }
+    {
+    Message 4   done
+    }
+    {
+    CartContainer
+        {
+        Cart 5 
+            {
+            CartItem 6
+            CartItem
+            CartItem
+            CartResut 7
+            }
+        }
+    }
+    {
+    Footer 8
+    }
